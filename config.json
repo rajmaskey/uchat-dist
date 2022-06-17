@@ -1,0 +1,12 @@
+{
+  "defaultHomeserver": 4,
+  "homeserverList": [
+    "matrix.rajmaskey.ml",
+    "matrix.rajmaskey.ml",
+    "matrix.rajmaskey.ml",
+    "matrix.rajmaskey.ml",
+    "matrix.rajmaskey.ml",
+    "matrix.rajmaskey.ml"
+  ],
+  "allowCustomHomeservers": true
+}
