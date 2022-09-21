@@ -1,5 +1,5 @@
 {
-  "defaultHomeserver": 4,
+  "defaultHomeserver": 2,
   "homeserverList": [
     "matrix.rajmaskey.dev",
     "matrix.rajmaskey.tk"
