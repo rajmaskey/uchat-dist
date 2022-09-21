@@ -1,8 +1,12 @@
 {
   "defaultHomeserver": 2,
-  "homeserverList": [
+   "homeserverList": [
+    "matrix.rajmaskey.dev",
+    "matrix.rajmaskey.dev",
+    "matrix.rajmaskey.dev",
+    "matrix.rajmaskey.dev",
+    "matrix.rajmaskey.dev",
     "matrix.rajmaskey.dev",
     "matrix.rajmaskey.tk"
   ],
   "allowCustomHomeservers": true
-}
